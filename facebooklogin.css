@@ -1,0 +1,42 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.Background{
+    height: 100%;
+    width: 100%;
+    float: left;
+    background-color: rgba(212, 210, 210, 0.811);
+}
+.Facebookname{
+    height: 100px;
+    width: 100%;
+    float: left;
+    background-color: white;
+}
+.Creataccdiv{
+    height: 600px;
+    width: 400px;
+    float: left;
+    background-color: white;
+    border-radius: 10px;
+    margin-left: 38%;
+}
+.Datediv{
+    height: 30px;
+    width: 100%;
+    float: left;
+}
+.gander{
+    height: 40px;
+    width: 26%;
+    border: 1px solid black;
+    margin-top: 0px;
+    float: left;
+    margin-left: 22px;
+}
+.ganderbackdiv{
+    height: 50px;
+    width: 100%;
+    float: left;
+}
